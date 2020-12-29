@@ -9,6 +9,7 @@ public class LsbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LsbApplication.class, args);
 		System.out.println("Boot Start");
+		System.out.println("master branch!!");
 	}
 	
 
